@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C_ANIMAUX.cpp" />
+    <ClCompile Include="C_FOND.cpp" />
+    <ClCompile Include="C_LOUP.cpp" />
+    <ClCompile Include="C_OISEAU.cpp" />
+    <ClCompile Include="C_PERSONNAGE.cpp" />
+    <ClCompile Include="C_ENTITE.cpp" />
+    <ClCompile Include="C_Fleche.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C_ANIMAUX.h" />
+    <ClInclude Include="C_FOND.h" />
+    <ClInclude Include="C_LOUP.h" />
+    <ClInclude Include="C_OISEAU.h" />
+    <ClInclude Include="C_PERSONNAGE.h" />
+    <ClInclude Include="C_ENTITE.h" />
+    <ClInclude Include="C_Fleche.h" />
+  </ItemGroup>
+</Project>

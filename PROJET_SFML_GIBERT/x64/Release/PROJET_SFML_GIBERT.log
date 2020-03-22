@@ -1,0 +1,198 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (PROJET_SFML_GIBERT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C_ANIMAUX.cpp
+  C_FOND.cpp
+  C_LOUP.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         ]
+  C_OISEAU.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         ]
+  C_PERSONNAGE.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(208,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C_ENTITE.cpp
+  C_Fleche.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(214,18): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         ]
+  Main.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(81,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(89,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(118,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+     Creating library D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\PROJET_SFML_GIBERT.lib and object D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\PROJET_SFML_GIBERT.exp
+sfml-main.lib(MainWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp___argc
+sfml-main.lib(MainWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp___argv
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Release\PROJET_SFML_GIBERT.exe : fatal error LNK1120: 2 unresolved externals

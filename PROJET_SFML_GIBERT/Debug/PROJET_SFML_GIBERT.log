@@ -1,0 +1,301 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PROJET_SFML_GIBERT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C_ANIMAUX.cpp
+  C_FOND.cpp
+  C_LOUP.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(34,33): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,43): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(108,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,43): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(121,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(160,28): warning C4244:         ]
+  C_OISEAU.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(179,28): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,43): warning C4244:         ]
+  C_PERSONNAGE.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_OISEAU.cpp(15,31): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,41): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(26,30): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,42): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(61,30): warning C4244:         ]
+  C_ENTITE.cpp
+  C_Fleche.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(214,18): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(32,44): warning C4244:         ]
+  Main.cpp
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(64,44): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,54): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(59,48): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,52): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         with
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         [
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:             T=float
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.h(67,47): warning C4244:         ]
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(81,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Debug\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(89,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Debug\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(118,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\x64\Debug\SFML-2.4.0\include\SFML\Graphics\Text.hpp(177): message : see declaration of 'sf::Text::setColor'
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(155,60): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\Main.cpp(307,40): warning C4018: '<': signed/unsigned mismatch
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_Fleche.cpp(134): warning C4715: 'C_Fleche::Propulsion': not all control paths return a value
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(145): warning C4715: 'C_PERSONNAGE::Deplacement': not all control paths return a value
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_PERSONNAGE.cpp(225): warning C4715: 'C_PERSONNAGE::Tir': not all control paths return a value
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\PROJET_SFML_GIBERT\C_LOUP.cpp(85): warning C4715: 'C_LOUP::operator==': not all control paths return a value
+C_ENTITE.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_FOND.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_OISEAU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(class sf::Vector2<float> const &)" (__imp_?scale@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+C_FOND.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+C_FOND.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ) referenced in function "public: __thiscall C_FOND::C_FOND(char *,float,float)" (??0C_FOND@@QAE@PADMM@Z)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_FOND.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_OISEAU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+C_FOND.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z) referenced in function "public: __thiscall C_FOND::C_FOND(char *,float,float)" (??0C_FOND@@QAE@PADMM@Z)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+C_FOND.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Texture::setRepeated(bool)" (__imp_?setRepeated@Texture@sf@@QAEX_N@Z) referenced in function "public: __thiscall C_FOND::C_FOND(char *,float,float)" (??0C_FOND@@QAE@PADMM@Z)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Texture::setRepeated(bool)" (__imp_?setRepeated@Texture@sf@@QAEX_N@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Texture::setRepeated(bool)" (__imp_?setRepeated@Texture@sf@@QAEX_N@Z)
+C_FOND.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ) referenced in function "public: __thiscall C_FOND::C_FOND(char *,float,float)" (??0C_FOND@@QAE@PADMM@Z)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ)
+C_FOND.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z) referenced in function "public: __thiscall C_FOND::C_FOND(char *,float,float)" (??0C_FOND@@QAE@PADMM@Z)
+C_ENTITE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C_FOND.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C_ENTITE.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ) referenced in function "public: __thiscall C_ENTITE::C_ENTITE(char *)" (??0C_ENTITE@@QAE@PAD@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+C_FOND.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+C_OISEAU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_LOUP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_OISEAU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_LOUP.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QAEXMM@Z) referenced in function "public: void __thiscall C_LOUP::Meurt(void)" (?Meurt@C_LOUP@@QAEXXZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QAEXMM@Z)
+C_LOUP.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "public: void __thiscall C_LOUP::Attaque(class C_PERSONNAGE &)" (?Attaque@C_LOUP@@QAEXAAVC_PERSONNAGE@@@Z)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+C_LOUP.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QAEXABV?$Rect@H@2@@Z) referenced in function "public: __thiscall C_LOUP::C_LOUP(void)" (??0C_LOUP@@QAE@XZ)
+C_PERSONNAGE.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QAEXABV?$Rect@H@2@@Z)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QAEXABV?$Rect@H@2@@Z)
+C_PERSONNAGE.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(float,float)" (__imp_?scale@Transformable@sf@@QAEXMM@Z) referenced in function "public: __thiscall C_PERSONNAGE::C_PERSONNAGE(char *,int,int)" (??0C_PERSONNAGE@@QAE@PADHH@Z)
+C_Fleche.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(float,float)" (__imp_?scale@Transformable@sf@@QAEXMM@Z)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Time::Time(void)" (__imp_??0Time@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'temps_ecoule''(void)" (??__Etemps_ecoule@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: float __thiscall sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QBEMXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'Chronometre''(void)" (??__EChronometre@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QBE?AVTime@2@XZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::create(unsigned int,unsigned int)" (__imp_?create@Texture@sf@@QAE_NII@Z) referenced in function "void __cdecl Charge_Texture_Video(void)" (?Charge_Texture_Video@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Texture::update(unsigned char const *)" (__imp_?update@Texture@sf@@QAEXPBE@Z) referenced in function "void __cdecl Charge_Texture_Video(void)" (?Charge_Texture_Video@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Texture::update(class sf::Window const &)" (__imp_?update@Texture@sf@@QAEXABVWindow@2@@Z) referenced in function "void __cdecl Charge_Texture_Video(void)" (?Charge_Texture_Video@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) referenced in function "void __cdecl Affichage_GAME_OVER(void)" (?Affichage_GAME_OVER@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(void)" (__imp_??0RenderWindow@sf@@QAE@XZ) referenced in function "void __cdecl Charge_Texture_Video(void)" (?Charge_Texture_Video@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) referenced in function "public: virtual void * __thiscall sf::RenderWindow::`scalar deleting destructor'(unsigned int)" (??_GRenderWindow@sf@@UAEPAXI@Z)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QAE@ABV01@@Z) referenced in function "public: class sf::Sprite __thiscall C_ANIMAUX::Retourne_Sprit(void)" (?Retourne_Sprit@C_ANIMAUX@@QAE?AVSprite@sf@@XZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QAEXI@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setColor(class sf::Color const &)" (__imp_?setColor@Text@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ) referenced in function "void __cdecl Affichage_Text(void)" (?Affichage_Text@@YAXXZ)
+Main.obj : error LNK2001: unresolved external symbol "private: virtual bool __thiscall sf::RenderWindow::activate(bool)" (?activate@RenderWindow@sf@@EAE_N_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: virtual class sf::Vector2<unsigned int> __thiscall sf::RenderWindow::getSize(void)const " (?getSize@RenderWindow@sf@@UBE?AV?$Vector2@I@2@XZ)
+Main.obj : error LNK2001: unresolved external symbol "protected: virtual void __thiscall sf::RenderWindow::onCreate(void)" (?onCreate@RenderWindow@sf@@MAEXXZ)
+Main.obj : error LNK2001: unresolved external symbol "protected: virtual void __thiscall sf::RenderWindow::onResize(void)" (?onResize@RenderWindow@sf@@MAEXXZ)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+D:\Stockage\Courinfo\BTS\M.Vino\Jeux SFML\PROJET_SFML_GIBERT\Debug\PROJET_SFML_GIBERT.exe : fatal error LNK1120: 53 unresolved externals
