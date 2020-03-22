@@ -5,4 +5,4 @@ Handmade game with sprits and SFML library:
 ## Watchout more you kill wolves more they will be fast and angry
 ![](Image/Game.gif)
 
-###### Made with Android Studio and C++ 14 dll x64
+###### Made with Visual Studio and C++ 14 dll x64
