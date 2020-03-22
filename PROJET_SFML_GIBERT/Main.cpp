@@ -82,7 +82,7 @@ Texte_demarage.setColor(sf::Color::Red);
 Texte_demarage.setStyle(sf::Text::Bold);
 Texte_demarage.setPosition(700, -30);
 
-Instruction.setString("\n Appuyez sur 'Espace' touche pour continuer ");
+Instruction.setString("\n Appuyez sur 'Espace' pour continuer ");
 Instruction.setFont(La_Police);
 Instruction.setPosition(180, 120);
 Instruction.setCharacterSize(80);
