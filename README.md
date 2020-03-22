@@ -1,5 +1,5 @@
 # JungleSurvival
-###### why jungle ? it is a forest, right ?
+###### why jungle ? it is a forest ?
 Handmade game with sprits and SFML library:
 ## Try to survive with these angry collored wolves.
 ## Watchout more you kill wolves more they will be fast and angry
